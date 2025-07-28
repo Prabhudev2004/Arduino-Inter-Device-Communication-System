@@ -58,22 +58,22 @@ arduino-interdevice-communication/
 ## 🖼️ Screenshots
 
 ### 1️⃣ Master Serial Output with Retry Logic  
-![Master Timeout and Retry](images/screenshot-1.png)
+![Master Timeout and Retry]((https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20112006.png))
 
 ### 2️⃣ Successful UPTIME, PING, STATUS Communication  
-![Master Success Output](images/screenshot-2.png)
+![Master Success Output](https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20112102.png)
 
 ### 3️⃣ Consistent Output of Uptime, PONG, and STATUS  
-![Master Response Flow](images/screenshot-3.png)
+![Master Response Flow](https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20121017.png)
 
 ### 4️⃣ Final Stable Serial Monitor View  
-![Master-Slave Final Working](images/screenshot-4.png)
+![Master-Slave Final Working](https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20121051.png)
 
 ### 5️⃣ Slave Log Handling and Event Storage  
-![Slave Logs Display](images/screenshot-5.png)
+![Slave Logs Display](https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20122048.png)
 
 ### 6️⃣ Complete Log and Temperature Simulation Output  
-![Logs & Temp Simulation](images/screenshot-6.png)
+![Logs & Temp Simulation](https://github.com/Prabhudev2004/Arduino-Inter-Device-Communication-System/blob/913727a59552f6d6234d89cf442032180b80b4b6/Screenshot%202025-07-24%20122118.png)
 
 > 📌 Make sure you rename your uploaded screenshots to match the above file names (inside an `images/` folder in the repo).
 
